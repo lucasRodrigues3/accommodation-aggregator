@@ -1,3 +1,7 @@
-django==5.1.2
+asgiref==3.10.0
+Django==5.1.2
 psycopg2-binary==2.9.9
 python-dotenv==1.0.1
+setuptools==80.9.0
+sqlparse==0.5.3
+wheel==0.45.1
