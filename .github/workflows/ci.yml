@@ -10,6 +10,9 @@ permissions:
   contents: read
   packages: write
 
+env:
+  IMAGE_OWNER: ${{ github.actor }}
+
 jobs:
   build-and-test:
     runs-on: ubuntu-latest
