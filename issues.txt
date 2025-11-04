@@ -1,0 +1,23 @@
+[setup, backend] Setup Python environment and virtualenv
+[backend, setup] Install and configure Django
+[devops, setup] Setup Docker and Docker Compose
+[database, backend] Configure PostgreSQL database
+[devops, ci-cd] Setup CI/CD pipeline with GitHub Actions
+
+[backend, database] Create accommodation model
+[backend, data, scraper] Build data scraper for accommodation websites
+[backend, api] Create API endpoints for accommodation data
+[backend, auth] Add user authentication (JWT)
+[backend, api, enhancement] Add pagination and filtering to API
+[backend, testing] Write unit tests for API endpoints
+
+[frontend, setup] Setup React project with TypeScript
+[frontend, ui-ux] Create homepage layout
+[frontend, feature, ui-ux] Implement search and filters
+[frontend, auth] Add user authentication UI
+[frontend, data, feature] Display reports and statistics
+
+[devops, aws] Configure AWS EC2 or Lightsail for deployment
+[aws, database] Setup AWS RDS for PostgreSQL
+[devops, kubernetes] Setup Kubernetes cluster
+[devops, ci-cd] Automate deployment with CI/CD
